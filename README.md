@@ -30,15 +30,15 @@ _This bonus are added to generate a discussion or to present a complete structur
 
 ### Containerize applications
 
-1. Build the application images of `apps/gateway` and `apps/user`
+1. Build the application images of `apps/hello` and `apps/world`
 
 ### Package applications
 
-1. Create the application charts of `apps/gateway` and `apps/user`
+1. Create the application charts of `apps/hello` and `apps/world`
 
 ### Deploy applications
 
-1. Deploy the application `apps/gateway` and `apps/user` in your [Kubernetes](https://kubernetes.io/) cluster
+1. Deploy the application `apps/hello` and `apps/world` in your [Kubernetes](https://kubernetes.io/) cluster
 
 ### Final test
 

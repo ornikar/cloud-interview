@@ -8,7 +8,7 @@
 
 _Development only._
 
-1. `composer run start`
+1. `composer run dev:start`
 
 ## How to display
 

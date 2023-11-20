@@ -1,13 +1,13 @@
-# 👋 Hello Application
+# 👋 Hello Application with nodejs
 
 ## How to install
 
-1. `yarn install`
+ `yarn install`
 
 ## How to run
 
-1. `yarn run start`
+ `yarn run start`
 
-## How to display
+## Your application must be available to => [http://localhost:3000](http://localhost:3000)
 
-1. <http://localhost:3000>
+

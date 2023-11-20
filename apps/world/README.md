@@ -1,15 +1,13 @@
-# 🌎 World Application
+# 🌎 World Application with PHP
 
 ## How to install
 
-1. `composer install`
+ `composer install`
 
-## How to run
+## How to run (Development only)
 
-_Development only._
+`composer run dev:start`
 
-1. `composer run dev:start`
+## Your application must be available to => [http://localhost:3000](http://localhost:3000)
 
-## How to display
 
-1. <http://localhost:3000>

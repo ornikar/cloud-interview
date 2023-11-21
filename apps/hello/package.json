@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Hello application",
   "main": "src/index.js",
-  "author": "Julien BREUX <julien.breux@ornikar.com>",
+  "author": "orikar tools <ornikar-tools@ornikar.com>",
   "license": "Ornikar",
   "private": true,
   "dependencies": {
